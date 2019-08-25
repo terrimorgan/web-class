@@ -1,0 +1,14 @@
+.mainpage {
+  background-color: rgba(255, 99, 71, 0.3); /* transparent */
+}
+.topheading {
+  color: #cc3399; /* purple */
+  font-style: italic;
+}
+.bluetext {
+  color: #0099ff; /* blue */ 
+  font-size: 15px;
+}
+.centering {
+   text-align: center;
+}

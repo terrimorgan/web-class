@@ -1,0 +1,31 @@
+.mainpage {
+  background-color: rgba(255, 99, 71, 0.3); /* transparent */
+}
+.topheading {
+  color: #cc3399; /* purple */
+  font-style: italic;
+}
+.bluetext {
+  color: #0099ff; /* blue */ 
+  font-size: 15px;
+}
+.centering {
+   text-align: center;
+}
+.playbuttons {
+		margin-top: 30px;
+		width: 70%;
+		display: inline-block;
+	}
+.button {
+  background-color: #00BF96;
+  border-radius: 8px; 	  
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: 10px;
+}

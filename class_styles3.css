@@ -1,0 +1,14 @@
+body {
+  background-color: rgba(255, 99, 71, 0.3); /* transparent */
+}
+h1 {
+  color: #cc3399; /* purple */
+  font-style: italic;
+}
+p {
+  color: #0099ff; /* blue */ 
+  font-size: 15px;
+}
+div {
+   text-align: center;
+}
